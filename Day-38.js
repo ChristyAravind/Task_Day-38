@@ -790,20 +790,14 @@ db.product
 // { "product_name" : "Generic Wooden Pizza", "product_material" : "Frozen" }
 // { "product_name" : "Unbranded Wooden Cheese", "product_material" : "Soft" }
 // { "product_name" : "Unbranded Plastic Salad", "product_material" : "Wooden" }
-// {
-//   "product_name" : "Gorgeous Cotton Keyboard",
-//   "product_material" : "Concrete"
-// }
+// { "product_name" : "Gorgeous Cotton Keyboard","product_material" : "Concrete" }
 // { "product_name" : "Incredible Steel Shirt", "product_material" : "Metal" }
 // { "product_name" : "Ergonomic Cotton Hat", "product_material" : "Rubber" }
 // { "product_name" : "Small Soft Chair", "product_material" : "Cotton" }
 // { "product_name" : "Incredible Metal Car", "product_material" : "Fresh" }
 // { "product_name" : "Licensed Plastic Bacon", "product_material" : "Steel" }
 // { "product_name" : "Intelligent Cotton Chips", "product_material" : "Soft" }
-// {
-//   "product_name" : "Handcrafted Wooden Bacon",
-//   "product_material" : "Concrete"
-// }
+// { "product_name" : "Handcrafted Wooden Bacon", "product_material" : "Concrete" }
 
 // 8. Find all product which contain the value of soft in product material
 
